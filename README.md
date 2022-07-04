@@ -1,16 +1,10 @@
 # flutter_canvas_donut_chart
 
-A new Flutter project.
+Using Canvas to draw donut chart
 
-## Getting Started
+I create project just for practice
 
-This project is a starting point for a Flutter application.
+Video demo:
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/57831153/177100605-fb0ed179-51b3-433b-b9a5-eecd5062315c.mov
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
